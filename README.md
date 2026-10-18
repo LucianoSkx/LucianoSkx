@@ -67,8 +67,6 @@ I contribute to open-source projects and enjoy mentoring. If you see something h
 ## Connect
 - Website: https://greasyfork.org/en/users/1301195-luciano-inf
 - GitHub: https://github.com/LucianoSkx
-- LinkedIn: https://www.linkedin.com/in/[your-linkedin]
-- Twitter/X: https://twitter.com/[your-twitter]
 - Email: lucianosniff.contato@gmail.com
 
 ---
