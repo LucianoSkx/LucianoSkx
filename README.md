@@ -60,7 +60,6 @@ I contribute to open-source projects and enjoy mentoring. If you see something h
 
 ## Blog, Talks & Writing
 - Blog: https://greasyfork.org/en/users/1301195-luciano-inf — Posts about userscripts and browser tooling.
-- Talks: [optional link to talks or slides]
 
 ---
 
