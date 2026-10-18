@@ -1,13 +1,11 @@
 # Hi 👋, I'm LucianoSkx
 
-[![Profile views](https://komarev.com/ghpvc/?username=LucianoSkx&color=0e75b6&style=flat-square)](https://github.com/LucianoSkx)
-
 ## About Me
 I'm Luciano Oliveira (LucianoSkx) — a Userscript developer who loves building delightful, high-quality software. I focus on solving real problems with clean code, pragmatic design, and a bias toward shipping.
 
-- 🔭 I’m currently working on: **age-verification-bypass** — Userscript that removes age verification popups (AgeChecker, AgeVerif, AliExpress, Bluesky, Reddit, x.com and more). https://github.com/LucianoSkx/age-verification-bypass
-- 🌱 I’m learning: **[WHAT YOU'RE LEARNING]**
-- 👯 I’m looking to collaborate on: **[TYPES OF PROJECTS YOU WANT]**
+- 🔭 I'm currently working on: **age-verification-bypass** — Userscript that removes age verification popups (AgeChecker, AgeVerif, AliExpress, Bluesky, Reddit, x.com and more). https://github.com/LucianoSkx/age-verification-bypass
+- 🌱 I'm learning: **[WHAT YOU'RE LEARNING]**
+- 👯 I'm looking to collaborate on: **[TYPES OF PROJECTS YOU WANT]**
 - 💬 Ask me about: **Userscripts, browser automation, privacy, Linux packaging**
 - 📫 How to reach me: **lucianosniff.contato@gmail.com**
 - ⚡ Fun fact: **[SOMETHING PERSONAL / FUN]**
@@ -15,7 +13,7 @@ I'm Luciano Oliveira (LucianoSkx) — a Userscript developer who loves building 
 ---
 
 ## Featured Projects
-Here are a few projects I’m proud of.
+Here are a few projects I'm proud of.
 
 - **age-verification-bypass** — Userscript that removes age verification popups across many sites. ⭐ 6  
   🔗 https://github.com/LucianoSkx/age-verification-bypass
