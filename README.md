@@ -23,7 +23,6 @@ Luciano Oliveira (LucianoSkx) — I build userscripts and Linux desktop tooling.
 ## Userscripts
 
 - **[shortlink-skipper](https://github.com/LucianoSkx/shortlink-skipper)** — skips link shorteners: speeds up countdowns, solves math captchas, blocks popups and anti-adblock warnings.
-- **[recaptcha-blocker](https://github.com/LucianoSkx/recaptcha-blocker)** — removes the reCAPTCHA widget on all sites.
 - **[popupoff](https://github.com/LucianoSkx/popupoff)** — removes popups, overlays and fixed elements.
 - **[absolute-enable-right-click](https://github.com/LucianoSkx/absolute-enable-right-click)** — restores right-click and copy everywhere.
 - **[FFBypasser-FuckingFast](https://github.com/LucianoSkx/FFBypasser-FuckingFast)** — turns FuckingFast share links into direct downloads.
