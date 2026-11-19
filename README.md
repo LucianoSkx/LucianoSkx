@@ -1,71 +1,46 @@
 # Hi 👋, I'm LucianoSkx
 
 ## About Me
-I'm Luciano Oliveira (LucianoSkx) — a Userscript developer who loves building delightful, high-quality software. I focus on solving real problems with clean code, pragmatic design, and a bias toward shipping.
 
-- 🔭 I'm currently working on: **age-verification-bypass** — Userscript that removes age verification popups (AgeChecker, AgeVerif, AliExpress, Bluesky, Reddit, x.com and more). https://github.com/LucianoSkx/age-verification-bypass
-- 🌱 I'm learning: **[WHAT YOU'RE LEARNING]**
-- 👯 I'm looking to collaborate on: **[TYPES OF PROJECTS YOU WANT]**
-- 💬 Ask me about: **Userscripts, browser automation, privacy, Linux packaging**
+Luciano Oliveira (LucianoSkx) — I build userscripts and Linux desktop tooling. Mostly two kinds of things: small scripts that remove annoyances from websites, and installers/GUIs that make Windows-era habits work on Linux without flatpaks or AUR.
+
+- 🔭 Currently working on: [thorium-installer](https://github.com/LucianoSkx/thorium-installer) — Thorium Browser repackaged as pacman packages per CPU variant (SSE3 → AVX512, arm64, i386)
+- 💬 Ask me about: userscripts, browser automation, Linux packaging, AppImage, Steam on Linux
 - 📫 How to reach me: **lucianosniff.contato@gmail.com**
-- ⚡ Fun fact: **[SOMETHING PERSONAL / FUN]**
+- 🦊 Userscripts: https://greasyfork.org/en/users/1301195-luciano-inf
 
 ---
 
 ## Featured Projects
-Here are a few projects I'm proud of.
 
-- **age-verification-bypass** — Userscript that removes age verification popups across many sites. ⭐ 6  
-  🔗 https://github.com/LucianoSkx/age-verification-bypass
-- **shortlink-skipper** — Skips link shorteners automatically: speeds up countdowns, solves math captchas, blocks popups. ⭐ 1  
-  🔗 https://github.com/LucianoSkx/shortlink-skipper
-- **recaptcha-blocker** — Removes/blocks the Google reCAPTCHA widget on all websites. ⭐ 1  
-  🔗 https://github.com/LucianoSkx/recaptcha-blocker
-- **steamart** — Applies metadata and artwork to non-Steam shortcuts in Steam (Go + Fyne, AppImage).  
-  🔗 https://github.com/LucianoSkx/steamart
-- **protoncommand** — GUI to manage and combine useful Proton commands for Steam (PT-BR/EN).  
-  🔗 https://github.com/LucianoSkx/protoncommand
-- **64gram-installer** — Universal 64Gram (Telegram Desktop unofficial) installer for Linux.  
-  🔗 https://github.com/LucianoSkx/64gram-installer
+- **[thorium-installer](https://github.com/LucianoSkx/thorium-installer)** — Arch/CachyOS packages for Thorium Browser, built from the official `.deb`, one build per CPU variant.
+- **[protoncommand](https://github.com/LucianoSkx/protoncommand)** — GUI to manage and combine Proton, Proton-GE and Proton-CachyOS commands for Steam. Fyne/Go, PT-BR/EN.
+- **[xiso-studio](https://github.com/LucianoSkx/xiso-studio)** — Linux GUI for extract-xiso: extract, list, create and optimize Xbox XISO images. Flutter, shipped as a single self-contained binary.
+- **[Switch-Tools](https://github.com/LucianoSkx/Switch-Tools)** — Linux port of SAK: XCI/NSP/NSZ management, zstd compression, update merging, AppImage.
+- **[64gram-installer](https://github.com/LucianoSkx/64gram-installer)** — Universal 64Gram installer for Debian, Ubuntu, Fedora, Arch and CachyOS.
+- **[gearlever-install](https://github.com/LucianoSkx/gearlever-install)** — Installs Gear Lever by building from source, so no flatpak and no AUR.
+
+## Userscripts
+
+- **[shortlink-skipper](https://github.com/LucianoSkx/shortlink-skipper)** — skips link shorteners: speeds up countdowns, solves math captchas, blocks popups and anti-adblock warnings.
+- **[recaptcha-blocker](https://github.com/LucianoSkx/recaptcha-blocker)** — removes the reCAPTCHA widget on all sites.
+- **[popupoff](https://github.com/LucianoSkx/popupoff)** — removes popups, overlays and fixed elements.
+- **[absolute-enable-right-click](https://github.com/LucianoSkx/absolute-enable-right-click)** — restores right-click and copy everywhere.
+- **[FFBypasser-FuckingFast](https://github.com/LucianoSkx/FFBypasser-FuckingFast)** — turns FuckingFast share links into direct downloads.
 
 ---
 
 ## Skills & Tools
-A selection of technologies I use regularly.
 
-- Languages: JavaScript, Go, C#, Shell
-- Frontend: Electron
-- Backend: Node.js
-- Databases: —
-- DevOps / Cloud: Docker, AppImage, Linux packaging
-- Testing / Quality: ESLint, CI/CD
-- Others: Git, REST, Tampermonkey/Violentmonkey, Go (Fyne)
-
----
-
-## How I Work
-- User-centered: I prioritize user value and measurable outcomes.
-- Iterative: small, frequent improvements and rapid feedback loops.
-- Communicative: clear PRs, useful docs, and friendly code reviews.
-- Pragmatic engineering: balance correctness, readability, and time-to-market.
-
----
-
-## Open Source & Community
-I contribute to open-source projects and enjoy mentoring. If you see something here you'd like to collaborate on, open an issue or send a message.
-
----
-
-## Blog, Talks & Writing
-- Blog: https://greasyfork.org/en/users/1301195-luciano-inf — Posts about userscripts and browser tooling.
+- Languages: JavaScript, Go, Dart, C#, Shell
+- Desktop: Electron, Flutter, Fyne
+- Packaging / CI: AppImage, pacman, GitHub Actions, Docker
+- Other: Tampermonkey / Violentmonkey, REST
 
 ---
 
 ## Connect
-- Website: https://greasyfork.org/en/users/1301195-luciano-inf
+
 - GitHub: https://github.com/LucianoSkx
+- GreasyFork: https://greasyfork.org/en/users/1301195-luciano-inf
 - Email: lucianosniff.contato@gmail.com
-
----
-
-Thanks for stopping by — feel free to explore my repos and reach out!
